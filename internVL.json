@@ -1,0 +1,7 @@
+{
+    "model": "internvl3_38b",
+    "api_key": "",
+    "organization": null,
+    "base_url": "http://127.0.0.1:23467/v1",
+    "temperature": 0
+}
